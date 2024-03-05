@@ -21,8 +21,4 @@ Snippet Tool on Kotlinilla ja TornadoFX:llä toteutettu sovellus, joka auttaa oh
 
 ## Todo
 
-- Lisää tietokantaan tallennettujen koodinpätkien muokkaus- ja poistotoiminnot.
 - Paranna käyttöliittymän ulkoasua ja käyttäjäkokemusta.
-- Lisää tuki erilaisille tietokantoille.
-- Toteuta käyttäjätilien hallinta ja kirjautumistoiminnallisuus.
-- Lisää testit sovellukseen.
