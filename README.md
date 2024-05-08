@@ -1,24 +1,24 @@
 # Snippet Tool
 
-Snippet Tool on Kotlinilla ja TornadoFX:llä toteutettu sovellus, joka auttaa ohjelmistokehittäjiä hallitsemaan koodinpätkiä, mahdollistaen niiden tallentamisen ja haun nopeasti ja helposti.
+Snippet Tool is an application implemented in Kotlin and TornadoFX that helps software developers manage code snippets, allowing for quick and easy saving and retrieval.
 
-## Ominaisuudet
+## Features
 
-- Tallenna koodinpätkiä ja niihin liittyviä kategorioita tietokantaan.
-- Hae tallennettuja koodinpätkiä hakusanoilla.
-- Hallinnoi tallennettuja koodinpätkiä.
+- Save code snippets and associated categories to a database.
+- Search for saved code snippets using keywords.
+- Manage saved code snippets.
 
-## Käyttöohjeet
+## User Guide
 
-1. Lataa projekti GitHubista.
-2. Aja sovellus IntelliJ IDEA -kehitysympäristössä tai komentoriviltä käyttäen Gradle-tiedostoja.
-3. Syötä koodinpätkä ja siihen liittyvä kategoria tekstikenttiin.
-4. Tallenna koodinpätkä.
-5. Voit hakea tallennettuja koodinpätkiä hakusanoilla.
-6. Voit hallinnoida tallennettuja koodinpätkiä tarvittaessa.
+1. Download the project from GitHub.
+2. Run the application in IntelliJ IDEA development environment or from the command line using Gradle files.
+3. Enter the code snippet and its associated category into the text fields.
+4. Save the code snippet.
+5. You can search for saved code snippets using keywords.
+6. You can manage saved code snippets as needed.
 
-### SOVELLUS ON VIELÄ KESKEN ###
+### THE APPLICATION IS STILL UNDER DEVELOPMENT ###
 
 ## Todo
 
-- Paranna käyttöliittymän ulkoasua ja käyttäjäkokemusta.
+- Improve the user interface design and user experience.
